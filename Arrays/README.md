@@ -11,10 +11,6 @@ This repository explains the differences between **Arrays**, **Lists**, and **Tu
 - [2. Python Tuple](#2-python-tuple)
 - [3. Python Array](#3-python-array)
 - [Comparison Table](#comparison-table)
-- [Performance Benchmarks](#performance-benchmarks)
-- [Use Cases](#use-cases)
-- [Code Examples](#code-examples)
-- [Conclusion](#conclusion)
 
 ---
 
@@ -53,4 +49,4 @@ Understanding the difference between them helps write more efficient and readabl
   ```python
   from array import array
   my_array = array('i', [1, 2, 3])
-![image.png](attachment:a99113d5-c782-42aa-b5f4-fefa5254290f.png)
+<img width="487" alt="image" src="https://github.com/user-attachments/assets/f6171450-fc92-4f3f-a3cc-e089ebf2a798" />
